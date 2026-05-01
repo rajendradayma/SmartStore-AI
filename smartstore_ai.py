@@ -15,7 +15,7 @@ Original file is located at
 # =============================================================
 
 import os
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "gsk_Sb8jBCDQQk89L7t4sYqCWGdyb3FY0rxYaDvfXnxfRQ3pEYDDnz"
 os.environ["SECRET_KEY"]   = "3f8c2e1b7d94f6a2c0e5b8d1f3a7c9e2b4d6f8a0c2e4b6d8f0a2c4e6b8d0f2"
 
 # ─── STEP 1: Kill port + install ─────────────────────────────
